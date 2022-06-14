@@ -1,5 +1,5 @@
 # Electroporation-CGmem-MemSurfer
-This repository contains a collection of scripts used for the analysis of trajectories from molecular dynamics simulation of electroporation of coarse-grained Martini membranes with complex lipid composition. The results are being prepared for publication. 
+This repository contains a collection of scripts used for the analysis of trajectories from molecular dynamics simulation of electroporation of coarse-grained Martini membranes with complex lipid composition. The results are published at [eLife](https://doi.org/10.7554/eLife.74773). 
 
 The scripts were run on Ubuntu 20.04 with Anaconda-based python 3.7 suite and Matlab R2021a. 
 
